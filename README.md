@@ -1,5 +1,8 @@
 # my-nodejs-app
 
 ## My Fav Blogs
-1. [How to write a production Ready Node And Express App](https://medium.freecodecamp.org/how-to-write-a-production-ready-node-and-express-app-f214f0b17d8c)
-2. [Building a Simple Node.js Api in 30 Minutes](https://medium.freecodecamp.org/building-a-simple-node-js-api-in-under-30-minutes-a07ea9e390d2)
+1. [How to write a production Ready Node.Js And Express App](https://medium.freecodecamp.org/how-to-write-a-production-ready-node-and-express-app-f214f0b17d8c)
+2. [Building a Simple Node.Js Api in 30 Minutes](https://medium.freecodecamp.org/building-a-simple-node-js-api-in-under-30-minutes-a07ea9e390d2)
+3. [Build your first Local Server and Web App with Node.Js](https://hackernoon.com/build-your-first-local-server-and-web-app-with-node-js-5a5d9e00aff0)
+4. [Build a shopify App with Node.Js and Express](https://help.shopify.com/en/api/tutorials/build-a-shopify-app-with-node-and-express)
+5. [Setting up Node.Js development environment](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment)
