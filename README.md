@@ -8,7 +8,7 @@
 5. [Setting up Node.Js development environment](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment)
 6. [How to get use and close a DB connection](https://dzone.com/articles/how-to-get-use-and-close-a-db-connection-using-var)
 7. [Complete the steps described in the rest of this page to create a simple Node.js command-line application that makes requests to the Google Sheets API.](https://developers.google.com/sheets/api/quickstart/nodejs)
-8. []()
+8. [Google APIs Node.js Client](https://github.com/googleapis/google-api-nodejs-client#google-apis-nodejs-client)
 9. []()
 10. []()
 11. []()
