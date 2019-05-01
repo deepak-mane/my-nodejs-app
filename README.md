@@ -6,3 +6,11 @@
 3. [Build your first Local Server and Web App with Node.Js](https://hackernoon.com/build-your-first-local-server-and-web-app-with-node-js-5a5d9e00aff0)
 4. [Build a shopify App with Node.Js and Express](https://help.shopify.com/en/api/tutorials/build-a-shopify-app-with-node-and-express)
 5. [Setting up Node.Js development environment](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment)
+6. [How to get use and close a DB connection](https://dzone.com/articles/how-to-get-use-and-close-a-db-connection-using-var)
+7. []()
+8. []()
+9. []()
+10. []()
+11. []()
+12. []()
+
