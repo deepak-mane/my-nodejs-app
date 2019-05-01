@@ -7,7 +7,7 @@
 4. [Build a shopify App with Node.Js and Express](https://help.shopify.com/en/api/tutorials/build-a-shopify-app-with-node-and-express)
 5. [Setting up Node.Js development environment](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment)
 6. [How to get use and close a DB connection](https://dzone.com/articles/how-to-get-use-and-close-a-db-connection-using-var)
-7. []()
+7. [Complete the steps described in the rest of this page to create a simple Node.js command-line application that makes requests to the Google Sheets API.](https://developers.google.com/sheets/api/quickstart/nodejs)
 8. []()
 9. []()
 10. []()
